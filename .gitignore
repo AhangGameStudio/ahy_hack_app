@@ -1,0 +1,63 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+build/
+dist/
+*.apk
+*.aab
+
+# Expo
+.expo/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Misc
+.trae/
+*.iml
+*.ipr
+*.iws
+platform-tools/

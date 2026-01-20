@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "DeviceControlApp",
+    "slug": "device-control-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.devicecontrolapp"
+    },
+    "android": {
+      "package": "com.anonymous.devicecontrolapp"
+    },
+    "web": {
+    }
+  }
+}
